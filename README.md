@@ -1,1 +1,1 @@
-# -Intellify---My-Virtual-Assistant
+# Intellify - My Virtual Assistant
